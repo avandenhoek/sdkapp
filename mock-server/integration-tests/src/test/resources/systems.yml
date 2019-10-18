@@ -1,7 +1,7 @@
 ---
 erp:
-  default: "MOCKED_ERP_SYSTEM"
+  default: "MOCK_SYSTEM"
   systems:
-    - alias: "MOCKED_ERP_SYSTEM"
-      uri: "http://localhost:3000"
+    - alias: "MOCK_SYSTEM"
+      uri: "https://mockserver-delightful-nyala.cfapps.eu10.hana.ondemand.com"
 
