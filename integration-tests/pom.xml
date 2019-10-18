@@ -53,12 +53,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
-<dependency>
-      <groupId>io.rest-assured</groupId>
-      <artifactId>json-schema-validator</artifactId>
-      <version>3.0.6</version>
-      <scope>test</scope>
-   </dependency>
+
 
         <dependency>
             <groupId>com.sap.cloud.s4hana.cloudplatform</groupId>
