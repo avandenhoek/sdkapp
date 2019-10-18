@@ -1,3 +1,4 @@
+---
 erp:
   default: "MOCK_SYSTEM"
   systems:
